@@ -88,6 +88,7 @@
                         </constraints>
                     </view>
                     <connections>
+                        <outlet property="cardImageView" destination="dk9-V4-uDE" id="jZC-HT-Vw2"/>
                         <outletCollection property="buttons" destination="Boj-Yy-LRd" collectionClass="NSMutableArray" id="hzB-Mn-GmB"/>
                         <outletCollection property="buttons" destination="JZn-Xc-U1i" collectionClass="NSMutableArray" id="zTH-u1-OdC"/>
                         <outletCollection property="buttons" destination="5UV-Gc-zOP" collectionClass="NSMutableArray" id="wff-NH-Cre"/>
